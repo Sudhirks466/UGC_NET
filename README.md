@@ -27,6 +27,7 @@
                            <tr>
                               <td style="width:5%"></td>
                               <th>This is current affiar classes</th>
+                              <td></td>
                            </tr>
                            <tr>
                               <td style="width:5%">2</td>
