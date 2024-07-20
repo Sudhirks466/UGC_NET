@@ -12,3 +12,7 @@ https://drive.google.com/file/d/1NTRakJ6GJm-oW-k_IFZ2-GVY3USXXMRm/view?usp=shari
 Different types of disasters and Mitigation act and policies
 
 https://drive.google.com/file/d/1Fe8oQHHrz8g-_aJDbK9xu-wS2SeYZCaS/view?usp=sharing
+
+# Introduction to Textile
+
+https://drive.google.com/file/d/1lAH-il6n50IPZMdKvkrQ-VmT3HpUdPP9/view?usp=sharing
