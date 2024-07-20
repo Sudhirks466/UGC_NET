@@ -41,22 +41,22 @@
                <tr>
                   <td style="width:5%">1</td>
                   <td><a href="https://drive.google.com/file/d/1NTRakJ6GJm-oW-k_IFZ2-GVY3USXXMRm/view?usp=sharing" target="_blank">Introduction to food science and nutration</a></td>
-                  <td>Aditya Rohilla</td>
+                  <td>Aditi Rohilla</td>
                </tr>
                <tr>
                   <td style="width:5%">2</td>
                   <td><a href="https://drive.google.com/file/d/1lAH-il6n50IPZMdKvkrQ-VmT3HpUdPP9/view?usp=sharing" target="_blank">Introduction to Textile</a></td>
-                  <td>Aditya Rohilla</td>
+                  <td>Aditi Rohilla</td>
                </tr>
                <tr>
                   <td style="width:5%">3</td>
                   <td><a href="https://drive.google.com/file/d/1HaWST9ugqsmnNutm39CiFMMEgIG65kyS/view?usp=sharing" target="_blank">Introduction to Yarns</a></td>
-                  <td>Aditya Rohilla</td>
+                  <td>Aditi Rohilla</td>
                </tr>
                <tr>
                   <td style="width:5%">4</td>
                   <td><a href="https://drive.google.com/file/d/1-qhikAg5BYQrwMoWueZYGC8uv5wEPpt9/view?usp=sharing" target="_blank">Man Made Fibres</a></td>
-                  <td>Aditya Rohilla</td>
+                  <td>Aditi Rohilla</td>
                </tr>
             </tbody>
          </table>
