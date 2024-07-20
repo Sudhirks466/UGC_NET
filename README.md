@@ -20,9 +20,7 @@
                   <td>Tulika Rai</td>
                </tr>
                <tr>
-                  <td style="width:5%"></td>
-                  <th>This is current affiar classes</th>
-                  <td></td>
+                  <th  colspan="3">This is current affiar classes</th>
                </tr>
                <tr>
                   <td style="width:5%">2</td>
