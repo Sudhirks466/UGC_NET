@@ -16,3 +16,6 @@ https://drive.google.com/file/d/1Fe8oQHHrz8g-_aJDbK9xu-wS2SeYZCaS/view?usp=shari
 # Introduction to Textile
 
 https://drive.google.com/file/d/1lAH-il6n50IPZMdKvkrQ-VmT3HpUdPP9/view?usp=sharing
+<br/>
+<h2>Introduction to Yarns<h2>
+<a href="https://drive.google.com/file/d/1HaWST9ugqsmnNutm39CiFMMEgIG65kyS/view?usp=sharing">Introduction to Yarns</a>
