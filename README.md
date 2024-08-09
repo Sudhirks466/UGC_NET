@@ -59,17 +59,17 @@
                   <td>Aditi Rohilla</td>
                </tr>
                <tr>
-                  <td style="width:5%">3</td>
+                  <td style="width:5%">4</td>
                   <td><a href="https://drive.google.com/file/d/1Y-u-0EbadYrs53VnfwWmVR6TbaapNIoN/view?usp=sharing" target="_blank">Traditional Textiles</a></td>
                   <td>Aditi Rohilla</td>
                </tr>
                <tr>
-                  <td style="width:5%">4</td>
+                  <td style="width:5%">5</td>
                   <td><a href="https://drive.google.com/file/d/1HaWST9ugqsmnNutm39CiFMMEgIG65kyS/view?usp=sharing" target="_blank">Introduction to Yarns</a></td>
                   <td>Aditi Rohilla</td>
                </tr>
                <tr>
-                  <td style="width:5%">5</td>
+                  <td style="width:5%">6</td>
                   <td><a href="https://drive.google.com/file/d/1-qhikAg5BYQrwMoWueZYGC8uv5wEPpt9/view?usp=sharing" target="_blank">Man Made Fibres</a></td>
                   <td>Aditi Rohilla</td>
                </tr>
