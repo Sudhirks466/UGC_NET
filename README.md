@@ -29,8 +29,8 @@
                </tr>
                <tr>
                   <td style="width:5%">3</td>
-                  <td><a href="https://drive.google.com/file/d/1Fe8oQHHrz8g-_aJDbK9xu-wS2SeYZCaS/view?usp=sharing" target="_blank">Miscellaneus Topic Based on PYQ</a></td>
-                  <td>Priti Ma'am</td>
+                  <td><a href="https://drive.google.com/file/d/10DfxT-mb-6llOAC_axsevyQZEO9vmVti/view?usp=sharing" target="_blank">Application of ICT In Research</a></td>
+                  <td>Tulika Rai</td>
                </tr>
             </tbody>
          </table>
@@ -55,22 +55,17 @@
                </tr>
                <tr>
                   <td style="width:5%">3</td>
-                  <td><a href="https://drive.google.com/file/d/1um8ToLJnGmU3NdjkOeCzz5HWNUPaiJiW/view?usp=sharing" target="_blank">Nano Textiles Occupational Clothing Up Cycling & Recycling</a></td>
-                  <td>Aditi Rohilla</td>
-               </tr>
-               <tr>
-                  <td style="width:5%">4</td>
-                  <td><a href="https://drive.google.com/file/d/1Y-u-0EbadYrs53VnfwWmVR6TbaapNIoN/view?usp=sharing" target="_blank">Traditional Textiles</a></td>
-                  <td>Aditi Rohilla</td>
-               </tr>
-               <tr>
-                  <td style="width:5%">5</td>
                   <td><a href="https://drive.google.com/file/d/1HaWST9ugqsmnNutm39CiFMMEgIG65kyS/view?usp=sharing" target="_blank">Introduction to Yarns</a></td>
                   <td>Aditi Rohilla</td>
                </tr>
                <tr>
-                  <td style="width:5%">6</td>
+                  <td style="width:5%">4</td>
                   <td><a href="https://drive.google.com/file/d/1-qhikAg5BYQrwMoWueZYGC8uv5wEPpt9/view?usp=sharing" target="_blank">Man Made Fibres</a></td>
+                  <td>Aditi Rohilla</td>
+               </tr>
+               <tr>
+                  <td style="width:5%">5</td>
+                  <td><a href="https://drive.google.com/file/d/10NC_mg7lnx34yXgzEP-LsqDnupE38-He/view?usp=sharing" target="_blank">Color Wheel & Its Dimensions</a></td>
                   <td>Aditi Rohilla</td>
                </tr>
             </tbody>
